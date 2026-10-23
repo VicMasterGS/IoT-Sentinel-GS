@@ -1,0 +1,6 @@
+{
+  "name": "IoT Sentinel",
+  "description": "Monitoreo de variables ambientales en entornos IoT/OT con DHT11, MQ-135, simulación y comunicación inalámbrica local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

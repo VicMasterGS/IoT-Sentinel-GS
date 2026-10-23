@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude encrypted credentials and keys from cloud restore without keystore -->
+    <exclude domain="sharedpref" path="secure_auth_prefs.xml"/>
+    <exclude domain="sharedpref" path="secure_session.xml"/>
+</full-backup-content>
